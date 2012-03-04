@@ -4,8 +4,11 @@
 		<wb-resource deploy-path="/" source-path="/src/main/webapp"/>
 		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
 		<wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+<<<<<<< HEAD
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
+=======
+>>>>>>> branch 'master' of git@github.com:inatus/Legacy-BBS.git
 		<property name="java-output-path" value="target/classes"/>
 		<property name="context-root" value="Legacy-BBS"/>
 	</wb-module>
