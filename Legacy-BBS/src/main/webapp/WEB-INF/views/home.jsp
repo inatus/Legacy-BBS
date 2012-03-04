@@ -49,7 +49,7 @@
                            	<c:forEach items="${entryList}" var="entry">
                         		<hr />
                         		<c:if test="${entry.email != ''}" var="mailFlg" />
-                        		<p>${entry.title}  Subscriber:
+                        		<p>${entry.title}  Submitter:
                         		<c:if test="${mailFlg}"><a href="mailto:${entry.email}"></c:if>
                         		${entry.name}<c:if test="${mailFlg}"></a></c:if>
                         		  Date:${entry.date} </p>
