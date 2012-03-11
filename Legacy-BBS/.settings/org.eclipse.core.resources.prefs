@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-#Sun Mar 04 20:59:12 JST 2012
+#Sun Mar 11 20:06:51 JST 2012
 =\=\=\=\=\=\=
 <<<<<<<=HEAD
 >>>>>>>=branch 'master' of git@github.com\:inatus/Legacy-BBS.git
-=======
-#Sun Mar 04 14:08:59 JST 2012
->>>>>>> branch 'master' of git@github.com:inatus/Legacy-BBS.git
 eclipse.preferences.version=1
 encoding//src/main/webapp/WEB-INF/views/home.jsp=UTF-8
-encoding/<project>=UTF-8
